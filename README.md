@@ -8,7 +8,9 @@ requirement:
 - pysqlite
 
 ###运行
+
 python2 app.py
 
 ###截图
+
 ![](http://i66.tinypic.com/315dhc4.jpg)
