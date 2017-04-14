@@ -80,8 +80,6 @@ class OSCPspider:
 
         return self.show_p(projects)
 
-        return 'ok'
-
     # 在本地数据库的项目中查找
     def search_p(self, op):
         if len(op) >= 3:
